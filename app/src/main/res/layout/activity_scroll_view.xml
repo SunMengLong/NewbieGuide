@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<com.app.hubert.newbieguide.ObservableScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+<com.app.sml.newbieguide.ObservableScrollView xmlns:android="http://schemas.android.com/apk/res/android"
     android:id="@+id/scrollView"
     android:layout_width="match_parent"
     android:layout_height="match_parent">
@@ -93,4 +93,4 @@
             android:background="@android:color/holo_purple"
             android:layout_height="100dp" />
     </LinearLayout>
-</com.app.hubert.newbieguide.ObservableScrollView>
+</com.app.sml.newbieguide.ObservableScrollView>
